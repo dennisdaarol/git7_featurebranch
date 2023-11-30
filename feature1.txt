@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-conflict 2 new
-=======
-conflict 1
->>>>>>> conflict
+conflict feature A
+
