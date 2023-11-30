@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 conflict 2 new
+=======
+conflict 1
+>>>>>>> conflict
